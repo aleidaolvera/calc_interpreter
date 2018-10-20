@@ -91,7 +91,6 @@ There was an error parsing expression:
 |bool_true|( #t, #T )|
 |bool_false|( #f, #F )|
 
-<div style="page-break-after: always;"></div>
 ### Parser / Evaluation
 This program is unique because it evaluates and parses the expressions entered at the same time.
 
