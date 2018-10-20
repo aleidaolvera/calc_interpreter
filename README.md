@@ -2,10 +2,9 @@
 > Created by Aleida Olvera for Professor Jeremy Bolton's CS252 Class
 
 ### How to Run Calculator Interpreter
+Navigate to the directory where these files are hosted and type the following to the terminal. This runs the calc_interpreter executable file.
 
 ```bash
-$ unzip hw1.zip
-$ cd hw1
 $ ./calc_interpreter
 ```
 
